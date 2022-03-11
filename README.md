@@ -1,24 +1,11 @@
-# README
+# Python Inside Of Rails | Running Processes In Ruby | Ruby On Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Bilal and I work as FreeLancer
 
-Things you may want to cover:
+This is my Python Inside Of Rails | Running Processes In Ruby | Ruby On Rails App!
 
-* Ruby version
+This Ruby On Rails tutorial covers running Python Inside Of Rails. Running Processes In Ruby is a great way to incorporate other applications for uses such as machine learning, more efficient alogirthms implemented in other languages, background tasks, etc....
 
-* System dependencies
+Follow me at RehanTech
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+...
